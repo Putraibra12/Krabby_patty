@@ -3,3 +3,5 @@ RESEP RAHASIA
 2.SELADA
 3.DAGING
 4.SAUS
+5.timun
+6.mayones
